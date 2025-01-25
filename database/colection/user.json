@@ -1,0 +1,6 @@
+{
+    "_id": "64b9c25d2f",
+    "username": "john_doe",
+    "email": "john@example.com",
+    "password": "$2b$10$hashedPassword"
+}

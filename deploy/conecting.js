@@ -1,0 +1,1 @@
+mongoose.connect("mongodb+srv://<username>:<password>@cluster0.mongodb.net/ebuddy");

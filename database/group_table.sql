@@ -1,0 +1,1 @@
+id | group_name | member_id | created_at
