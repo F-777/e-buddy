@@ -1,1 +1,0 @@
-id | sender_id | receiver_id | content | timestamp
